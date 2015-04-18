@@ -26,3 +26,7 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+## Rails Girls 2015
+----
+### L.A. Adventure App
+*Made by* **Kristen Torres**
